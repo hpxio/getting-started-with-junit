@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "GettingStartedWithJunit",
+                "projectName": "GettingStartedWithJunit",
+                "workingDirectory": "f:\\Projects\\Advanced Programming\\Java\\GettingStartedWithJunit",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "GettingStartedWithJunit",
+                "projectName": "GettingStartedWithJunit",
+                "workingDirectory": "f:\\Projects\\Advanced Programming\\Java\\GettingStartedWithJunit",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
